@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bicky</h1>
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
-<img align="right" alt="Coding" width="400" height="250" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bickysrm alt=bickysrm/> </p>
 🔭 I’m currently pursuing BCA<br>
 👯 I’m looking to collaborate on a big Project<br>
