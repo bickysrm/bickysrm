@@ -2,6 +2,7 @@
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bickysrm alt=bickysrm/> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 🔭 I’m currently pursuing BCA<br>
 👯 I’m looking to collaborate on a big Project<br>
 🤝 I’m looking for help with good Mentor<br>
