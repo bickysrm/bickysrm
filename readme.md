@@ -1,5 +1,5 @@
+<h1 align="center">Hi 👋, I'm Bicky</h1>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bickysrm alt=bickysrm/> </p>
-# 💫 About Me:
 🔭 I’m currently pursuing BCA<br>👯 I’m looking to collaborate on a big Project<br>🤝 I’m looking for help with good Mentor<br>🌱 I’m currently learning Web development<br>💬 Ask me about my self.<br>⚡ Fun fact , I change my mind on the basis of situation.
 
 
