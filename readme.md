@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Akashkumar9508">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bicky+Sharma;Nice+to+meet+you!&center=true&size=22">
-  </a>
 </h1>
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
