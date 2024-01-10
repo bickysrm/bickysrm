@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bicky</h1>
+<h1 align="center">
+  <a href="https://github.com/Akashkumar9508">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Bicky+Sharma;Nice+to+meet+you!&center=true&size=22">
+  </a>
+</h1>
 
 <h3 align="center">A young-dumb 🤓 front end developer from India 🇮🇳</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="5" />
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=bickysrm alt=bickysrm/> </p>
 
